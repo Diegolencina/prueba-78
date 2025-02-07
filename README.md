@@ -1,2 +1,2 @@
 # prueba-78
-prueba para prep voourse
+practica para clonar un repositorio desde git hub
